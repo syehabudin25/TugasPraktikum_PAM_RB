@@ -7,10 +7,7 @@
 ## Daftar Tugas
 
 - **Minggu 1:** Setup, Hello World
-  Folder: `Tugas_Praktikum_PAM_1`
 
 - **Minggu 2:** News Feed Simulator
-  Folder: `Tugas_Praktikum_PAM_2`
 
-- **Minggu 3:** My Profile App  
-  Folder: `Tugas_Praktikum_PAM_3`
+- **Minggu 3:** My Profile App
